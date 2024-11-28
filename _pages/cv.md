@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+1. Ph.D in in Computer Science and Technology (September, 2023 - )
+- School of Computer Science, Nanjing University, China
+
+2. M.E in Computer Science and Technology (September, 2021 - June, 2023)
+- Department of Computer Science and Technology, Nanjing University, China
+
+2. B.S in Computer Science and Technology (September, 2016 - June, 2020)
+- Department of Computer Science and Technology, Nanjing University, China
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* [2023.01 - ]: Research Interns
+  * **Huawei**
+  * Duties include: Large model performance modeling, analysis and tuning
+  * Supervisor: **Zhang Jingyi**
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [2022.07 - 2022.12]: Visiting students
+  * **Pengcheng Lab**
+  * Duties include: Performance analysis of model training based on Pengcheng Cloud Brain 2 and NCCL performance tuning
+  * Supervisor: **Wang Bingqiang**
 
 Publications
 ======
@@ -47,18 +38,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
