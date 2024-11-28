@@ -6,7 +6,7 @@
 
 main:  
   - title: "Home"
-    url: /cv/
+    url: /home/
     
   - title: "Publications"
     url: /publications/
