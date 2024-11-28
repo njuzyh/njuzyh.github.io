@@ -6,7 +6,7 @@ permalink: /publication/AFFNA
 excerpt: 
 date: 2023-10-01
 venue: 'In Proceedings of APNet 2023, poster'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://dl.acm.org/doi/pdf/10.1145/3600061.3600068)'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3600061.3600068'
 citation: 'Zibo Wang, Yuhang Zhou, Chen Tian, Xiaoliang Wang, Xianping Chen. AFNFA: An Approach to Automate NCCL Configuration Exploration. In Proceedings of APNet 2023, poster.'
 ---
 
