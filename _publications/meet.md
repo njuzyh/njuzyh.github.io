@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/meet
 excerpt: ''
 date: 2022-03-25
-venue: 'Volume 33, Issue 12'
+venue: 'Volume 33, Issue 12, TPDS'
 paperurl: 'https://ieeexplore.ieee.org/document/9743293'
 citation: 'Jiaqing Dong, Lijuan Tan, Chen Tian, Yuhang Zhou, Yi Wang, Wanchun Dou, and Guihai Chen. MEET: rack-level pooling based load balancing in datacenter networks. IEEE Transactions on Parallel and Distributed Systems (TPDS), Vol. 33, Issue. 12, On page(s): 3628-3639, 2022.'
 ---
