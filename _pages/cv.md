@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Ph.D in Computer Science in progress  
-School of Computer Science and Technology, Nanjing University  
-**Email**: yuhangzhou(a)smail.nju.edu.cn  
+Ph.D. Candidate in Computer Science
+School of Computer Science, Nanjing University  
+**Email**: yuhangzhou@smail.nju.edu.cn  
 **Mailing address**: Nanjing University, No.163 Xianlin Avenue, Nanjing, China, 210023  
 
 Education
