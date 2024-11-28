@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Ph.D. Candidate in Computer Science
-
+Ph.D. Candidate in Computer Science      
 School of Computer Science, Nanjing University  
 **Email**: yuhangzhou@smail.nju.edu.cn  
 **Mailing address**: Nanjing University, No.163 Xianlin Avenue, Nanjing, China, 210023  
