@@ -1,6 +1,6 @@
 ---
-title: "Computer Networks"
-collection: Teaching Assistant
+title: "Computer Networks, Teaching Assistant"
+collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Department of Computer Science and Technology, Nanjing University  "
