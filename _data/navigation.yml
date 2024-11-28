@@ -6,7 +6,7 @@
 
 main:
   - title: "About"
-    url: /pages/about.md
+    url: /about/
     
   - title: "Publications"
     url: /publications/
