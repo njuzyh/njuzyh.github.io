@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
+Biography
+======
+
 Ph.D. Candidate in Computer Science      
 School of Computer Science, Nanjing University  
 **Email**: yuhangzhou@smail.nju.edu.cn  
@@ -16,11 +18,8 @@ School of Computer Science, Nanjing University
 
 Education
 ======
-* Ph.D in in Computer Science and Technology (September, 2023 - )
+* Ph.D in in Computer Science and Technology (September, 2021 - )
   - School of Computer Science, Nanjing University, China
-
-* M.E in Computer Science and Technology (September, 2021 - June, 2023)
-  - Department of Computer Science and Technology, Nanjing University, China
 
 * B.S in Computer Science and Technology (September, 2016 - June, 2020)
   - Department of Computer Science and Technology, Nanjing University, China
