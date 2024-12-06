@@ -29,12 +29,12 @@ Work experience
 * Research Intern (January, 2023 - )
   - Huawei
   - Duties include: Large model performance modeling, analysis and tuning
-  - Supervisor: Zhang Jingyi
+  - Supervisor: Jingyi Zhang
 
 * Visiting Student (July, 2022 - December, 2022)
   - Pengcheng Lab
   - Duties include: Performance analysis of model training based on Pengcheng Cloud Brain 2 and NCCL performance tuning
-  - Supervisor: Wang Bingqiang
+  - Supervisor: Bingqiang Wang
 
 Publications
 ======
