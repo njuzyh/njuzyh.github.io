@@ -21,7 +21,7 @@ repository               : "njuzyh/njuzyh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zyh_profile.png"
+  avatar           : "zyh.png"
   name             : "Yuhang Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate @ NJU"
