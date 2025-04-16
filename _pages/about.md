@@ -44,7 +44,7 @@ My research mainly focuses on:
   ASPLOS'25 &nbsp;</span>
   *Squeezing Operator Performance Potential for the Ascend Architecture*. 📄 [**Paper**](files/paper/ASPLOS25_Roofline.pdf)
   - 👤 **Yuhang Zhou**, Zhibin Wang, Guyue Liu, Shipeng Li, Xi Lin, Zibo Wang, Yongzhong Wang, Fuchun Wei, Jingyi Zhang, Zhiheng Hu, \\
-  Yanlin Liu, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Wanchun Dou, Guihai Chen, Chen Tian
+  Yanlin Liu, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Wanchun Dou, Guihai Chen, Chen Tian.
 </div>
 
 <div class='paper-box-text' markdown="1">
