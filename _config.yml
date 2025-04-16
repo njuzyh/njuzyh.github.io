@@ -21,7 +21,6 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  avatar           : "zyh.png"
   name             : "Yuhang Zhou"
   bio              : "Ph.D. Candidate @ NJU"
   location         : "Nanjing, China"
