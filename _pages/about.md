@@ -21,8 +21,8 @@ redirect_from:
 
 
 # 👋 About me
-I am Yuhang Zhou (周 宇航), a fourth-year CS Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, Nanjing University. 
-I am currently advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).  This is my [CV](../files/yuhangzhou_CV.pdf).
+I am Yuhang Zhou (周 宇航), a fourth-year CS Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, \\ 
+Nanjing University. I am currently advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).  This is my [CV](../files/yuhangzhou_CV.pdf).
 \\
 My research mainly focuses on:
 * Machine learning system (MLSys)
@@ -44,35 +44,35 @@ My research mainly focuses on:
   ASPLOS'25 &nbsp;</span>
   *Squeezing Operator Performance Potential for the Ascend Architecture*. 📄 [**Paper**](files/paper/ASPLOS25_Roofline.pdf)
   - 👤 **Yuhang Zhou**, Zhibin Wang, Guyue Liu, Shipeng Li, Xi Lin, Zibo Wang, Yongzhong Wang, Fuchun Wei, Jingyi Zhang, Zhiheng Hu, \\
-  Yanlin Liu, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Wanchun Dou, Guihai Chen, Chen Tian.
+  Yanlin Liu, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Wanchun Dou, Guihai Chen, Chen Tian
 </div>
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   HPEC 2024 &nbsp;</span>
   *Sans: Streaming Anonymized Network Sensing*. 📄 [**Paper**](files/paper/HPEC24_Sans.pdf)
-  - 👤 Ketai Zhao, **Yuhang Zhou**, Hongxu Pan, Zhibin Wang, Sheng Zhong and Chen Tian.
+  - 👤 Ketai Zhao, **Yuhang Zhou**, Hongxu Pan, Zhibin Wang, Sheng Zhong and Chen Tian
 </div>
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   APNet'23 &nbsp;</span>
   *AFNFA: An Approach to Automate NCCL Configuration Exploration*. 📄 [**Paper**](files/paper/APNet23_AFNFA.pdf)
-  - 👤 Zibo Wang, **Yuhang Zhou**, Chen Tian, Xiaoliang Wang, Xianping Chen.
+  - 👤 Zibo Wang, **Yuhang Zhou**, Chen Tian, Xiaoliang Wang, Xianping Chen
 </div>
 
 <div class='paper-box-text' markdown="1">
-- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
-  TPDS 2022 &nbsp;</span>
+- <span style="background-color: green; color: white; font-size: 0.85em;">&nbsp;
+  IEEE TPDS &nbsp;</span>
   *PushBox: Making Use of Every Bit of Time to Accelerate Completion of Data-parallel Jobs*. 📄 [**Paper**](files/paper/TPDS22_Pushbox.pdf)
-  - 👤 Chen Tian, Yi Wang, Bingchuan Tian, Yang Zhao, **Yuhang Zhou**, Chenxu Wang, Haoran Guan, Wanchun Dou, and Guihai Chen.
+  - 👤 Chen Tian, Yi Wang, Bingchuan Tian, Yang Zhao, **Yuhang Zhou**, Chenxu Wang, Haoran Guan, Wanchun Dou, and Guihai Chen
 </div>
 
 <div class='paper-box-text' markdown="1">
-- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
-  TPDS 2022 &nbsp;</span>
+- <span style="background-color: green; color: white; font-size: 0.85em;">&nbsp;
+  IEEE TPDS &nbsp;</span>
   *MEET: rack-level pooling based load balancing in datacenter networks*. 📄 [**Paper**](files/paper/TPDS22_Meet.pdf)
-  - 👤 Jiaqing Dong, Lijuan Tan, Chen Tian, **Yuhang Zhou**, Yi Wang, Wanchun Dou, and Guihai Chen.
+  - 👤 Jiaqing Dong, Lijuan Tan, Chen Tian, **Yuhang Zhou**, Yi Wang, Wanchun Dou, and Guihai Chen
 </div>
 
 <!-- 
