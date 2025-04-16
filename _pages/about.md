@@ -21,9 +21,12 @@ redirect_from:
 
 
 # 👋 About me
-I am Yuhang Zhou (周 宇航), a fourth-year CS Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, \\ 
-Nanjing University. I am currently advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).  This is my [CV](../files/yuhangzhou_CV.pdf).
+I am Yuhang Zhou (周 宇航), a fourth-year CS Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, 
 \\
+Nanjing University. I am currently advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).  This is my [CV](../files/yuhangzhou_CV.pdf).
+
+---
+
 My research mainly focuses on:
 * Machine learning system (MLSys)
 * Distributed system
@@ -43,8 +46,8 @@ My research mainly focuses on:
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   ASPLOS'25 &nbsp;</span>
   *Squeezing Operator Performance Potential for the Ascend Architecture*. 📄 [**Paper**](files/paper/ASPLOS25_Roofline.pdf)
-  - 👤 **Yuhang Zhou**, Zhibin Wang, Guyue Liu, Shipeng Li, Xi Lin, Zibo Wang, Yongzhong Wang, Fuchun Wei, Jingyi Zhang, Zhiheng Hu, \\
-  Yanlin Liu, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Wanchun Dou, Guihai Chen, Chen Tian
+  - 👤 **Yuhang Zhou**, Zhibin Wang, Guyue Liu, Shipeng Li, Xi Lin, Zibo Wang, Yongzhong Wang, Fuchun Wei, Jingyi Zhang, \\ 
+  Zhiheng Hu, Yanlin Liu, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Wanchun Dou, Guihai Chen, Chen Tian
 </div>
 
 <div class='paper-box-text' markdown="1">
