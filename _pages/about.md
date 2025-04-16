@@ -30,7 +30,7 @@ Nanjing University. I am currently advised by [Prof. Chen Tian](https://cs.nju.e
 My research mainly focuses on:
 * Machine learning system (MLSys)
 * Distributed system
-* Performance profiling, analysis and optimization.
+* Performance profiling, analysis and optimization
 
 
 # 🔥 News
