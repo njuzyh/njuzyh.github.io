@@ -19,21 +19,15 @@ redirect_from:
 
 <br>
 
+
 # 👋 About me
-I am Yuhang Zhou (周 宇航), a fourth-year CS Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, School of Computer Science, Nanjing University.  
-**Email**: yuhangzhou@smail.nju.edu.cn  
-**Mailing address**: Nanjing University, No.163 Xianlin Avenue, Nanjing, China, 210023  
-\\
-I am currently advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm). 
-\\
-Previously, I received my B.S. in Computer Science from Nanjing University.
-\\
+I am Yuhang Zhou (周 宇航), a fourth-year CS Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, Nanjing University. 
+I am currently advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).  
+This is my [CV](../assets/yuhangzhou_CV.pdf).
 My research mainly focuses on:
 * Machine learning system (MLSys)
 * Distributed system
 * Performance profiling, analysis and optimization.
-\\
-This is my [CV](../assets/yuhangzhou_CV.pdf).
 
 
 # 🔥 News
@@ -98,4 +92,4 @@ This is my [CV](../assets/yuhangzhou_CV.pdf).
 # 📚 Teaching
 - *2022.02 - 2022.06*, Teaching Assistant, Computer Network Spring 2022, Nanjing University.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iaPASPcQ0WjfLyPGayaBeBgN2nSY7KSUDzXe9V881tc&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iaPASPcQ0WjfLyPGayaBeBgN2nSY7KSUDzXe9V881tc&cl=ffffff&w=a"></script> -->
