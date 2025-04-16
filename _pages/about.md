@@ -1,15 +1,101 @@
 ---
 permalink: /
-title: "About me"
+title: ""
+excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am Yuhang Zhou (周 宇航), a fourth-year CS Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology,
-School of Computer Science, Nanjing University. I am currently advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm). Previously, I received my B.S. in Computer Science from Nanjing University.
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gsfiles_shieldsio.json" %}
 
-My research mainly focuses on systems for machine learning, distributed deep learning, and performance profiling and tuning.
+<span class='anchor' id='about-me'></span>
 
+<br>
+
+# 👋 About me
+I am Yuhang Zhou (周 宇航), a fourth-year CS Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, School of Computer Science, Nanjing University.  
+**Email**: yuhangzhou@smail.nju.edu.cn  
+**Mailing address**: Nanjing University, No.163 Xianlin Avenue, Nanjing, China, 210023  
+\\
+I am currently advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm). 
+\\
+Previously, I received my B.S. in Computer Science from Nanjing University.
+\\
+My research mainly focuses on:
+* Machine learning system (MLSys)
+* Distributed system
+* Performance profiling, analysis and optimization.
+\\
 This is my [CV](../assets/yuhangzhou_CV.pdf).
+
+
+# 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Paper: My paper of roofline analysis is accepted by ASPLOS 2025.
+- *2024.09*: &nbsp;🎉🎉 Paper: Sans is accepted by HPEC 2024.
+- *2023.06*: &nbsp;🎉🎉 Paper: AFNFA is accepted by APNet 2023.
+- *2022.04*: &nbsp;🎉🎉 Paper: Pushbox is accepted by TPDS 2022.
+- *2022.02*: &nbsp;🎉🎉 Paper: Meet is accepted by TPDS 2022.
+
+
+# 📝 Publications
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  ASPLOS'25 &nbsp;</span>
+  *Squeezing Operator Performance Potential for the Ascend Architecture*. 📄 [**Paper**](files/paper/ASPLOS25_Roofline.pdf)
+  - 👤 **Yuhang Zhou**, Zhibin Wang, Guyue Liu, Shipeng Li, Xi Lin, Zibo Wang, Yongzhong Wang, Fuchun Wei, Jingyi Zhang, Zhiheng Hu, \\
+  Yanlin Liu, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Wanchun Dou, Guihai Chen, Chen Tian
+</div>
+
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  HPEC 2024 &nbsp;</span>
+  *Sans: Streaming Anonymized Network Sensing*. 📄 [**Paper**](files/paper/HPEC24_Sans.pdf)
+  - 👤 Ketai Zhao, **Yuhang Zhou**, Hongxu Pan, Zhibin Wang, Sheng Zhong and Chen Tian.
+</div>
+
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  APNet'23 &nbsp;</span>
+  *AFNFA: An Approach to Automate NCCL Configuration Exploration*. 📄 [**Paper**](files/paper/APNet23_AFNFA.pdf)
+  - 👤 Zibo Wang, **Yuhang Zhou**, Chen Tian, Xiaoliang Wang, Xianping Chen.
+</div>
+
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  TPDS 2022 &nbsp;</span>
+  *PushBox: Making Use of Every Bit of Time to Accelerate Completion of Data-parallel Jobs*. 📄 [**Paper**](files/paper/TPDS22_Pushbox.pdf)
+  - 👤 Chen Tian, Yi Wang, Bingchuan Tian, Yang Zhao, **Yuhang Zhou**, Chenxu Wang, Haoran Guan, Wanchun Dou, and Guihai Chen.
+</div>
+
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  TPDS 2022 &nbsp;</span>
+  *MEET: rack-level pooling based load balancing in datacenter networks*. 📄 [**Paper**](files/paper/TPDS22_Meet.pdf)
+  - 👤 Jiaqing Dong, Lijuan Tan, Chen Tian, **Yuhang Zhou**, Yi Wang, Wanchun Dou, and Guihai Chen.
+</div>
+
+
+# 🎖 Honors and Awards
+<!-- - *2024.12*: Received (my second) National Scholarship for Ph.D. students.
+- *2022.12*: Received National Scholarship for Ph.D. students.
+- *2017.12*: Awarded National Scholarship for Undergraduate students. -->
+
+# 📖 Educations
+- *2021.09 - (now)*, Nanjing University, China. Ph.D in Computer Science and Technology, supervised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).
+- *2016.09 - 2020.06*, Nanjing University, China. B.S in Computer Science and Technology.
+
+# 💻 Internships
+- *2023.01 - (now)*, Huawei, China, supervised by Jingyi Zhang.
+- *2022.07 - 2022.12*, Pengcheng Lab, China, supervised by Bingqiang Wang.
+
+# 📚 Teaching
+- *2022.02 - 2022.06*, Teaching Assistant, Computer Network Spring 2022, Nanjing University.
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iaPASPcQ0WjfLyPGayaBeBgN2nSY7KSUDzXe9V881tc&cl=ffffff&w=a"></script>
