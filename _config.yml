@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuhang's Page"
-description              : "A Phd candidate in Nanjing University."
+description              : # "A Phd candidate in Nanjing University."
 repository               : "https://njuzyh.github.io"
 google_scholar_stats_use_cdn : true
 
