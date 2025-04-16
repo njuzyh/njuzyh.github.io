@@ -22,8 +22,8 @@ redirect_from:
 
 # 👋 About me
 I am Yuhang Zhou (周 宇航), a fourth-year CS Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, Nanjing University. 
-I am currently advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).  
-This is my [CV](../files/yuhangzhou_CV.pdf).
+I am currently advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).  This is my [CV](../files/yuhangzhou_CV.pdf).
+\\
 My research mainly focuses on:
 * Machine learning system (MLSys)
 * Distributed system

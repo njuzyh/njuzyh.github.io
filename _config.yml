@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D. Candidate @ NJU"
   location         : "Nanjing, China"
-  employer         : "Nanjing University"
+  employer         : # "Nanjing University"
   pubmed           :
   googlescholar    : # "https://scholar.google.com/citations?user=c16A25AAAAAJ"
   email            : "yuhangzhou@smail.nju.edu.cn"
