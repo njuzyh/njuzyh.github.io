@@ -37,8 +37,8 @@ My research mainly focuses on:
 - *2025.01*: &nbsp;🎉🎉 Paper: My paper of roofline analysis is accepted by ASPLOS 2025.
 - *2024.09*: &nbsp;🎉🎉 Paper: Sans is accepted by HPEC 2024.
 - *2023.06*: &nbsp;🎉🎉 Paper: AFNFA is accepted by APNet 2023.
-- *2022.04*: &nbsp;🎉🎉 Paper: Pushbox is accepted by TPDS 2022.
-- *2022.02*: &nbsp;🎉🎉 Paper: Meet is accepted by TPDS 2022.
+- *2022.04*: &nbsp;🎉🎉 Paper: Pushbox is accepted by IEEE TPDS.
+- *2022.02*: &nbsp;🎉🎉 Paper: Meet is accepted by IEEE TPDS.
 
 
 # 📝 Publications
