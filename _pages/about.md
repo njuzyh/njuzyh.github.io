@@ -95,4 +95,6 @@ My research mainly focuses on:
 # 📚 Teaching
 - *2022.02 - 2022.06*, Teaching Assistant, Computer Network Spring 2022, Nanjing University.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qW1Hdbab0yqtSVhvkgvntv3GDKfftXspfZhTGV-XIWM"></script>
+<div style="width: 250px; height: 250px; margin: auto; border: 1px solid #ddd; border-radius: 10px;">
+  <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=qW1Hdbab0yqtSVhvkgvntv3GDKfftXspfZhTGV-XIWM"></script>
+</div>
