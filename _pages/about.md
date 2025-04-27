@@ -35,6 +35,7 @@ My research mainly focuses on:
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 Paper: Hermes is accepted by ATC 2025.
 - *2025.01*: &nbsp;🎉🎉 Paper: My paper of roofline analysis is accepted by ASPLOS 2025.
 - *2024.08*: &nbsp;🎉🎉 Paper: Sans is accepted by HPEC 2024.
 - *2023.06*: &nbsp;🎉🎉 Paper: AFNFA is accepted by APNet 2023.
@@ -43,6 +44,13 @@ My research mainly focuses on:
 
 
 # 📝 Publications
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  ATC'25 &nbsp;</span>
+  *Accelerating Model Training on Ascend Chips: An Industrial System for Profiling, Analysis and Optimization*. 📄 **to appear**
+  - 👤 **Yuhang Zhou**, Zibo Wang, Zhibin Wang, Ruyi Zhang, Chen Tian, Xiaoliang Wang, Wanchun Dou, Guihai Chen, Binqiang Wang, Yonghong Tian, Yan Zhang, Hui Wang, Fuchun Wei, Boquan Sun, Jingyi Zhang, Bin She, Teng Su, Yifan Yao, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Guyue Liu
+</div>
+
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   ASPLOS'25 &nbsp;</span>
