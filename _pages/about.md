@@ -47,14 +47,14 @@ My research mainly focuses on:
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   ATC'25 &nbsp;</span>
-  *Accelerating Model Training on Ascend Chips: An Industrial System for Profiling, Analysis and Optimization*. 📄 **to appear**
+  *Accelerating Model Training on Ascend Chips: An Industrial System for Profiling, Analysis and Optimization*. **(CCF-A)** 📄 **to appear**
   - 👤 **Yuhang Zhou**, Zibo Wang, Zhibin Wang, Ruyi Zhang, Chen Tian, Xiaoliang Wang, Wanchun Dou, Guihai Chen, Binqiang Wang, Yonghong Tian, Yan Zhang, Hui Wang, Fuchun Wei, Boquan Sun, Jingyi Zhang, Bin She, Teng Su, Yifan Yao, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Guyue Liu
 </div>
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   ASPLOS'25 &nbsp;</span>
-  *Squeezing Operator Performance Potential for the Ascend Architecture*. 📄 [**Paper**](files/paper/ASPLOS25_Roofline.pdf)
+  *Squeezing Operator Performance Potential for the Ascend Architecture*. **(CCF-A)** 📄 [**Paper**](files/paper/ASPLOS25_Roofline.pdf)
   - 👤 **Yuhang Zhou**, Zhibin Wang, Guyue Liu, Shipeng Li, Xi Lin, Zibo Wang, Yongzhong Wang, Fuchun Wei, Jingyi Zhang, Zhiheng Hu, Yanlin Liu, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Wanchun Dou, Guihai Chen, Chen Tian
 </div>
 
@@ -67,7 +67,7 @@ My research mainly focuses on:
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
-  APNet'23 &nbsp;</span>
+  APNet'23 Poster &nbsp;</span>
   *AFNFA: An Approach to Automate NCCL Configuration Exploration*. 📄 [**Paper**](files/paper/APNet23_AFNFA.pdf)
   - 👤 Zibo Wang, **Yuhang Zhou**, Chen Tian, Xiaoliang Wang, Xianping Chen
 </div>
@@ -75,14 +75,14 @@ My research mainly focuses on:
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: green; color: white; font-size: 0.85em;">&nbsp;
   IEEE TPDS &nbsp;</span>
-  *PushBox: Making Use of Every Bit of Time to Accelerate Completion of Data-parallel Jobs*. 📄 [**Paper**](files/paper/TPDS22_Pushbox.pdf)
+  *PushBox: Making Use of Every Bit of Time to Accelerate Completion of Data-parallel Jobs*. **(CCF-A)** 📄 [**Paper**](files/paper/TPDS22_Pushbox.pdf)
   - 👤 Chen Tian, Yi Wang, Bingchuan Tian, Yang Zhao, **Yuhang Zhou**, Chenxu Wang, Haoran Guan, Wanchun Dou, and Guihai Chen
 </div>
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: green; color: white; font-size: 0.85em;">&nbsp;
   IEEE TPDS &nbsp;</span>
-  *MEET: rack-level pooling based load balancing in datacenter networks*. 📄 [**Paper**](files/paper/TPDS22_Meet.pdf)
+  *MEET: rack-level pooling based load balancing in datacenter networks*. **(CCF-A)** 📄 [**Paper**](files/paper/TPDS22_Meet.pdf)
   - 👤 Jiaqing Dong, Lijuan Tan, Chen Tian, **Yuhang Zhou**, Yi Wang, Wanchun Dou, and Guihai Chen
 </div>
 
