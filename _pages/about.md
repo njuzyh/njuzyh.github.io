@@ -96,9 +96,9 @@ My research mainly focuses on:
 - *2021.09 - (now)*, Nanjing University, China. Ph.D in Computer Science and Technology, supervised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).
 - *2016.09 - 2020.06*, Nanjing University, China. B.S in Computer Science and Technology.
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *2023.01 - (now)*, Huawei, China, supervised by Jingyi Zhang.
-- *2022.07 - 2022.12*, Pengcheng Lab, China, supervised by Bingqiang Wang.
+- *2022.07 - 2022.12*, Pengcheng Lab, China, supervised by Bingqiang Wang. -->
 
 # 📚 Teaching
 - *2022.02 - 2022.06*, Teaching Assistant, Computer Network Spring 2022, Nanjing University.
