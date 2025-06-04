@@ -8,8 +8,8 @@ main:
   - title: "About me"
     url: "/#about-me"
     
-  - title: "Research Interests"
-    url: "/#-research-interests"
+  # - title: "Research Interests"
+  #   url: "/#-research-interests"
 
   - title: "News"
     url: "/#-news"    
@@ -17,8 +17,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Preprints"
-    url: "/#-preprints"
+  # - title: "Preprints"
+  #   url: "/#-preprints"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
