@@ -28,16 +28,12 @@ Nanjing University. I am currently advised by [Prof. Chen Tian](https://cs.nju.e
 
 # 🌱 Research Interests
 - **Machine Learning Systems (MLSys)**
-  - *Model training/inference performance optimization*  
-    <span style="color: #888;">(ATC '25, ASPLOS '25)</span>
-  - *Large Language Model (LLM) serving scheduling*  
-    <span style="color: #888;">(Arxiv '25, Arxiv '24)</span>
+  - *Model training/inference performance optimization* <span style="color: #888;">(ATC '25, ASPLOS '25)</span>
+  - *Large Language Model (LLM) serving scheduling* <span style="color: #888;">(Arxiv '25, Arxiv '24)</span>
 
 - **Distributed Systems & Data Center Networks**
-  - *Network performance optimization*  
-    <span style="color: #888;">(TPDS '22)</span>
-  - *Data-parallel job scheduling*  
-    <span style="color: #888;">(TPDS '22)</span>
+  - *Network performance optimization* <span style="color: #888;">(TPDS '22)</span>
+  - *Data-parallel job scheduling* <span style="color: #888;">(TPDS '22)</span>
 
 
 # 🔥 News
