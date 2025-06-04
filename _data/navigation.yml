@@ -8,8 +8,8 @@ main:
   - title: "About me"
     url: "/#about-me"
 
-  - title: "Interests"
-    url: "/#research-interests"
+  - title: "Research Interests"
+    url: "/#-research interests"
 
   - title: "News"
     url: "/#-news"    
