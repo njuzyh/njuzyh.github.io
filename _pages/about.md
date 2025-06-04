@@ -26,12 +26,18 @@ I am Yuhang Zhou (周 宇航), a fourth-year CS Ph.D. candidate at NASA Group, S
 Nanjing University. I am currently advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).  
 <!-- This is my [CV](../files/yuhangzhou_CV.pdf). -->
 
----
+# 🌱 Research Interests
+- **Machine Learning Systems (MLSys)**
+  - *Model training/inference performance optimization*  
+    <span style="color: #888;">(ATC '25, ASPLOS '25)</span>
+  - *Large Language Model (LLM) serving scheduling*  
+    <span style="color: #888;">(Arxiv '25, Arxiv '24)</span>
 
-My research mainly focuses on:
-* Machine learning system (MLSys)
-* Distributed system
-* Performance profiling, analysis and optimization
+- **Distributed Systems & Data Center Networks**
+  - *Network performance optimization*  
+    <span style="color: #888;">(TPDS '22)</span>
+  - *Data-parallel job scheduling*  
+    <span style="color: #888;">(TPDS '22)</span>
 
 
 # 🔥 News
@@ -90,14 +96,14 @@ My research mainly focuses on:
 # 📰 Preprints
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
-  Arxiv &nbsp;</span>
+  Arxiv 25 &nbsp;</span>
   *Echo: Efficient Co-Scheduling of Hybrid Online-Offline Tasks for Large Language Model Serving*. 📄 [**Paper**](https://arxiv.org/pdf/2504.03651)
   - 👤 Zhibin Wang, Shipeng Li, Xue Li, **Yuhang Zhou**, Zhonghui Zhang, Zibo Wang, Rong Gu, Chen Tian, Kun Yang, Sheng Zhong
 </div>
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
-  Arxiv &nbsp;</span>
+  Arxiv 24 &nbsp;</span>
   *Revisiting SLO and Goodput Metrics in LLM Serving*. 📄 [**Paper**](https://arxiv.org/pdf/2410.14257)
   - 👤 Zhibin Wang, Shipeng Li, **Yuhang Zhou**, Xue Li, Rong Gu, Nguyen Cam-Tu, Chen Tian, Sheng Zhong
 </div>
