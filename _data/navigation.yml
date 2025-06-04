@@ -7,9 +7,9 @@
 main:  
   - title: "About me"
     url: "/#about-me"
-
+    
   - title: "Research Interests"
-    url: "/#-research interests"
+    url: "/#-research-interests"
 
   - title: "News"
     url: "/#-news"    
