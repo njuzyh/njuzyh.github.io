@@ -47,7 +47,7 @@ My research mainly focuses on:
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   ATC'25 &nbsp;</span>
-  *Accelerating Model Training on Ascend Chips: An Industrial System for Profiling, Analysis and Optimization*. **(CCF-A)** 📄 **to appear**
+  *Accelerating Model Training on Ascend Chips: An Industrial System for Profiling, Analysis and Optimization*. **(CCF-A)** 📄 [**Paper**](files/paper/atc25-final684.pdf)
   - 👤 **Yuhang Zhou**, Zibo Wang, Zhibin Wang, Ruyi Zhang, Chen Tian, Xiaoliang Wang, Wanchun Dou, Guihai Chen, Binqiang Wang, Yonghong Tian, Yan Zhang, Hui Wang, Fuchun Wei, Boquan Sun, Jingyi Zhang, Bin She, Teng Su, Yifan Yao, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Guyue Liu
 </div>
 
