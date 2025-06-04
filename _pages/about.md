@@ -90,14 +90,14 @@ My research mainly focuses on:
 # 📰 Preprints
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
-  Preprint &nbsp;</span>
+  Arxiv &nbsp;</span>
   *Echo: Efficient Co-Scheduling of Hybrid Online-Offline Tasks for Large Language Model Serving*. 📄 [**Paper**](https://arxiv.org/pdf/2504.03651)
   - 👤 Zhibin Wang, Shipeng Li, Xue Li, **Yuhang Zhou**, Zhonghui Zhang, Zibo Wang, Rong Gu, Chen Tian, Kun Yang, Sheng Zhong
 </div>
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
-  Preprint &nbsp;</span>
+  Arxiv &nbsp;</span>
   *Revisiting SLO and Goodput Metrics in LLM Serving*. 📄 [**Paper**](https://arxiv.org/pdf/2410.14257)
   - 👤 Zhibin Wang, Shipeng Li, **Yuhang Zhou**, Xue Li, Rong Gu, Nguyen Cam-Tu, Chen Tian, Sheng Zhong
 </div>
