@@ -86,13 +86,29 @@ My research mainly focuses on:
   - 👤 Jiaqing Dong, Lijuan Tan, Chen Tian, **Yuhang Zhou**, Yi Wang, Wanchun Dou, and Guihai Chen
 </div>
 
+
+# 📰 Preprints
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: yellow; color: white; font-size: 0.85em;">&nbsp;
+  Preprint &nbsp;</span>
+  *Echo: Efficient Co-Scheduling of Hybrid Online-Offline Tasks for Large Language Model Serving*. 📄 [**Paper**](https://arxiv.org/pdf/2504.03651)
+  - 👤 Zhibin Wang, Shipeng Li, Xue Li, **Yuhang Zhou**, Zhonghui Zhang, Zibo Wang, Rong Gu, Chen Tian, Kun Yang, Sheng Zhong
+</div>
+
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: yellow; color: white; font-size: 0.85em;">&nbsp;
+  Preprint &nbsp;</span>
+  *Revisiting SLO and Goodput Metrics in LLM Serving*. 📄 [**Paper**](https://arxiv.org/pdf/2410.14257)
+  - 👤 Zhibin Wang, Shipeng Li, **Yuhang Zhou**, Xue Li, Rong Gu, Nguyen Cam-Tu, Chen Tian, Sheng Zhong
+</div>
+
 <!-- 
 # 🎖 Honors and Awards
 - *2024.12*: Received (my second) National Scholarship for Ph.D. students.
 - *2022.12*: Received National Scholarship for Ph.D. students.
 - *2017.12*: Awarded National Scholarship for Undergraduate students. -->
 
-# 📖 Educations
+# 🎓 Educations
 - *2021.09 - (now)*, Nanjing University, China. Ph.D in Computer Science and Technology, supervised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).
 - *2016.09 - 2020.06*, Nanjing University, China. B.S in Computer Science and Technology.
 
