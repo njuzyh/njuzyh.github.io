@@ -104,11 +104,11 @@ Nanjing University. I am currently advised by [Prof. Chen Tian](https://cs.nju.e
   - 👤 Zhibin Wang, Shipeng Li, **Yuhang Zhou**, Xue Li, Rong Gu, Nguyen Cam-Tu, Chen Tian, Sheng Zhong
 </div>
 
-<!-- 
-# 🎖 Honors and Awards
-- *2024.12*: Received (my second) National Scholarship for Ph.D. students.
-- *2022.12*: Received National Scholarship for Ph.D. students.
-- *2017.12*: Awarded National Scholarship for Undergraduate students. -->
+
+# 🏆 Honors and Awards
+- *2025.04*: Postgraduate Research & Practice Innovation Program of Jiangsu Province.
+<!-- - *2022.12*: Received National Scholarship for Ph.D. students. -->
+<!-- - *2017.12*: Awarded National Scholarship for Undergraduate students. -->
 
 # 🎓 Educations
 - *2021.09 - (now)*, Nanjing University, China. Ph.D in Computer Science and Technology, supervised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).
