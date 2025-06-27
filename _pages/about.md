@@ -23,7 +23,7 @@ redirect_from:
 # 👋 About me
 I am Yuhang Zhou (周 宇航), a fourth-year CS Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, 
 \\
-Nanjing University. I am currently advised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).  
+Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) and [Dr. Zhibin Wang](https://wzbxpy.github.io/).  
 <!-- This is my [CV](../files/yuhangzhou_CV.pdf). -->
 
 # 🌱 Research Interests
