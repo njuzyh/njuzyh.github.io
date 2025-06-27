@@ -23,7 +23,7 @@ redirect_from:
 # 👋 About me
 I am Yuhang Zhou (周 宇航), a fourth-year CS Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, 
 \\
-Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) and [Dr. Zhibin Wang](https://wzbxpy.github.io/).  This is my [Chinese CV](../files/yuhang_CV_cn.pdf).
+Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) and [Dr. Zhibin Wang](https://wzbxpy.github.io/). This is my [Chinese CV](../files/yuhang_CV_cn.pdf).
 
 # 🌱 Research Interests
 - **Machine Learning Systems (MLSys)**
@@ -105,6 +105,7 @@ Nanjing University. I am currently under the supervision of [Prof. Chen Tian](ht
 
 
 # 🏆 Honors and Awards
+- *2024.08*: IEEE HPEC Graph Challenge 2024 Honorable Mention.
 - *2025.04*: Postgraduate Research & Practice Innovation Program of Jiangsu Province.
 <!-- - *2022.12*: Received National Scholarship for Ph.D. students. -->
 <!-- - *2017.12*: Awarded National Scholarship for Undergraduate students. -->
@@ -113,9 +114,9 @@ Nanjing University. I am currently under the supervision of [Prof. Chen Tian](ht
 - *2021.09 - (now)*, Nanjing University, China. Ph.D in Computer Science and Technology, supervised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).
 - *2016.09 - 2020.06*, Nanjing University, China. B.S in Computer Science and Technology.
 
-<!-- # 💻 Internships
+# 💻 Internships
 - *2023.01 - (now)*, Huawei, China, supervised by Jingyi Zhang.
-- *2022.07 - 2022.12*, Pengcheng Lab, China, supervised by Bingqiang Wang. -->
+- *2022.07 - 2022.12*, Pengcheng Lab, China, supervised by Bingqiang Wang.
 
 # 📚 Teaching
 - *2022.02 - 2022.06*, Teaching Assistant, Computer Network Spring 2022, Nanjing University.
