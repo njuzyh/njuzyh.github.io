@@ -48,7 +48,7 @@ Nanjing University. I am currently under the supervision of [Prof. Chen Tian](ht
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   ATC'25 &nbsp;</span>
-  *Accelerating Model Training on Ascend Chips: An Industrial System for Profiling, Analysis and Optimization*. **(CCF-A)** 📄 [**Paper**](files/paper/atc25-final684.pdf)
+  *Accelerating Model Training on Ascend Chips: An Industrial System for Profiling, Analysis and Optimization*. **(CCF-A)** 📄 [**Paper**](files/paper/atc25-zhou.pdf)
   - 👤 **Yuhang Zhou**, Zibo Wang, Zhibin Wang, Ruyi Zhang, Chen Tian, Xiaoliang Wang, Wanchun Dou, Guihai Chen, Binqiang Wang, Yonghong Tian, Yan Zhang, Hui Wang, Fuchun Wei, Boquan Sun, Jingyi Zhang, Bin She, Teng Su, Yifan Yao, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Guyue Liu
 </div>
 
@@ -105,8 +105,8 @@ Nanjing University. I am currently under the supervision of [Prof. Chen Tian](ht
 
 
 # 🏆 Honors and Awards
-- *2024.08*: IEEE HPEC Graph Challenge 2024 Honorable Mention.
 - *2025.04*: Postgraduate Research & Practice Innovation Program of Jiangsu Province.
+- *2024.08*: IEEE HPEC Graph Challenge 2024 Honorable Mention.
 <!-- - *2022.12*: Received National Scholarship for Ph.D. students. -->
 <!-- - *2017.12*: Awarded National Scholarship for Undergraduate students. -->
 
