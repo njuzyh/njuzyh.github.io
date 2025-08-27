@@ -21,7 +21,8 @@ redirect_from:
 
 
 # 👋 About me
-I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science at the State Key Laboratory for Novel Software Technology, Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) and [Dr. Zhibin Wang](https://wzbxpy.github.io/). I am expected to graduate in June 2027. This is my [Chinese CV](../files/yuhang_CV_cn.pdf).
+I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science at the State Key Laboratory for Novel Software Technology, Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) and [Dr. Zhibin Wang](https://wzbxpy.github.io/). I am expected to graduate in June 2027. 
+<!-- This is my [Chinese CV](../files/yuhang_CV_cn.pdf). -->
 
 # 🌱 Research Interests
 - **Machine Learning Systems (MLSys)**
