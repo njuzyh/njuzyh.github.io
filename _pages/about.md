@@ -27,6 +27,7 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 # 🌱 Research Interests
 - **Machine Learning Systems (MLSys)**
   - *Model training/inference performance optimization* <span style="color: #888;">(ATC '25, ASPLOS '25)</span>
+  - *Fault-tolerance in distributed training* <span style="color: #888;">(Arxiv '25)</span>
   - *Large Language Model (LLM) serving scheduling* <span style="color: #888;">(Arxiv '25, Arxiv '24)</span>
 
 - **Distributed Systems & Data Center Networks**
@@ -88,6 +89,20 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 
 
 # 📰 Preprints
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
+  Arxiv 25 &nbsp;</span>
+  *Accelerating Mixture-of-Experts Inference by Hiding Offloading Latency with Speculative Decoding*. 📄 [**Paper**](https://arxiv.org/abs/2508.21706)
+  - 👤 Zhibin Wang, Zhonghui Zhang, **Yuhang Zhou**, Zibo Wang, Mo Zhou, Peng Jiang, Weilin Cai, Chengying Huan, Rong Gu, Sheng Zhong, Chen Tian
+</div>
+
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
+  Arxiv 25 &nbsp;</span>
+  *Odyssey: Adaptive Policy Selection for Resilient Distributed Training*. 📄 [**Paper**](https://arxiv.org/abs/2508.21613)
+  - 👤 **Yuhang Zhou**, Zhibin Wang, Peng Jiang, Haoran Xia, Junhe Lu, Qianyu Jiang, Rong Gu, Hengxi Xu, Xinjing Huang, Guanghuan Fang, Zhiheng Hu, Jingyi Zhang, Yongjin Cai, Jian He, Chen Tian
+</div>
+
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
   Arxiv 25 &nbsp;</span>
