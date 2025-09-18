@@ -92,6 +92,13 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
   Arxiv 25 &nbsp;</span>
+  *Chameleon: Taming Dynamic Operator Sequences for Memory-Intensive LLM Training*. 📄 [**Paper**](https://arxiv.org/abs/2509.11076)
+  - 👤 Zibo Wang, **Yuhang Zhou**, Zhibin Wang, Shipeng Li, Xinjing Huang, Chendong Cai, Bingxu Mu, Yuqing Sun, Zhiheng Hu, Bin She, Shu You, Guanghuan Fang, Rong Gu, Wanchun Dou, Guihai Chen, Chen Tian*
+</div>
+
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
+  Arxiv 25 &nbsp;</span>
   *Accelerating Mixture-of-Experts Inference by Hiding Offloading Latency with Speculative Decoding*. 📄 [**Paper**](https://arxiv.org/abs/2508.21706)
   - 👤 Zhibin Wang, Zhonghui Zhang, **Yuhang Zhou**, Zibo Wang, Mo Zhou, Peng Jiang, Weilin Cai, Chengying Huan, Rong Gu, Sheng Zhong, Chen Tian
 </div>
@@ -106,14 +113,14 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
   Arxiv 25 &nbsp;</span>
-  *Echo: Efficient Co-Scheduling of Hybrid Online-Offline Tasks for Large Language Model Serving*. 📄 [**Paper**](https://arxiv.org/pdf/2504.03651)
+  *Echo: Efficient Co-Scheduling of Hybrid Online-Offline Tasks for Large Language Model Serving*. 📄 [**Paper**](https://arxiv.org/abs/2504.03651)
   - 👤 Zhibin Wang, Shipeng Li, Xue Li, **Yuhang Zhou**, Zhonghui Zhang, Zibo Wang, Rong Gu, Chen Tian, Kun Yang, Sheng Zhong
 </div>
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
   Arxiv 24 &nbsp;</span>
-  *Revisiting SLO and Goodput Metrics in LLM Serving*. 📄 [**Paper**](https://arxiv.org/pdf/2410.14257)
+  *Revisiting SLO and Goodput Metrics in LLM Serving*. 📄 [**Paper**](https://arxiv.org/abs/2410.14257)
   - 👤 Zhibin Wang, Shipeng Li, **Yuhang Zhou**, Xue Li, Rong Gu, Nguyen Cam-Tu, Chen Tian, Sheng Zhong
 </div>
 
