@@ -100,7 +100,7 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
   Arxiv 25 &nbsp;</span>
   *Chameleon: Taming Dynamic Operator Sequences for Memory-Intensive LLM Training*. 📄 [**Paper**](https://arxiv.org/abs/2509.11076)
-  - 👤 Zibo Wang, **Yuhang Zhou**, Zhibin Wang, Shipeng Li, Xinjing Huang, Chendong Cai, Bingxu Mu, Yuqing Sun, Zhiheng Hu, Bin She, Shu You, Guanghuan Fang, Rong Gu, Wanchun Dou, Guihai Chen, Chen Tian*
+  - 👤 Zibo Wang, **Yuhang Zhou**, Zhibin Wang, Shipeng Li, Xinjing Huang, Chendong Cai, Bingxu Mu, Yuqing Sun, Zhiheng Hu, Bin She, Shu You, Guanghuan Fang, Rong Gu, Wanchun Dou, Guihai Chen, Chen Tian
 </div>
 
 <div class='paper-box-text' markdown="1">
