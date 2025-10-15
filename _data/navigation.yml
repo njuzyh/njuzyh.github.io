@@ -26,6 +26,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Daily arXiv"
+    url: "https://njuzyh.github.io/daily-arXiv-ai-enhanced/"
   # - title: "Internships"
   #   url: "/#-internships"
 
