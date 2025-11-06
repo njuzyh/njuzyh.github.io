@@ -133,10 +133,9 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 
 
 # 🏆 Honors and Awards
+- *2025.10*: Awarded National Scholarship for Ph.D. students.
 - *2025.04*: Postgraduate Research & Practice Innovation Program of Jiangsu Province.
 - *2024.08*: IEEE HPEC Graph Challenge 2024 Honorable Mention.
-<!-- - *2022.12*: Received National Scholarship for Ph.D. students. -->
-<!-- - *2017.12*: Awarded National Scholarship for Undergraduate students. -->
 
 # 🎓 Educations
 - *2021.09 - (now)*, Nanjing University, China. Ph.D in Computer Science and Technology, supervised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).
@@ -147,7 +146,9 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 - *2022.07 - 2022.12*, Pengcheng Lab, China, supervised by Bingqiang Wang.
 
 # 📚 Teaching
-- *2022.02 - 2022.06*, Teaching Assistant, Computer Network Spring 2022, Nanjing University.
+- *2025.09 - *, Teaching Assistant, LLM System and Engineering, Fall 2025, Nanjing University.
+- *2025.03 - 2025.06*, Teaching Assistant, Deep Learning Platform and Application, Spring 2025, Nanjing University.
+- *2022.02 - 2022.06*, Teaching Assistant, Computer Network, Spring 2022, Nanjing University.
 
 <!-- <div style="width: 250px; height: 250px; margin: auto; border: 1px solid #ddd; border-radius: 10px;">
   <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=qW1Hdbab0yqtSVhvkgvntv3GDKfftXspfZhTGV-XIWM"></script>
