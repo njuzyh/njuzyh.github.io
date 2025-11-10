@@ -146,7 +146,7 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 - *2022.07 - 2022.12*, Pengcheng Lab, China, supervised by Bingqiang Wang.
 
 # 📚 Teaching
-- *2025.09 - *, Teaching Assistant, LLM System and Engineering, Fall 2025, Nanjing University.
+- *2025.09 - (now)*, Teaching Assistant, LLM System and Engineering, Fall 2025, Nanjing University.
 - *2025.03 - 2025.06*, Teaching Assistant, Deep Learning Platform and Application, Spring 2025, Nanjing University.
 - *2022.02 - 2022.06*, Teaching Assistant, Computer Network, Spring 2022, Nanjing University.
 
