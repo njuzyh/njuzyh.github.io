@@ -27,7 +27,7 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 # 🌱 Research Interests
 - **Machine Learning Systems (MLSys)**
   - *Model training/inference performance optimization* <span style="color: #888;">(ATC '25, ASPLOS '25)</span>
-  - *Fault-tolerance in distributed training* <span style="color: #888;">(Arxiv '25)</span>
+  - *Fault-tolerance in distributed training* <span style="color: #888;">(INFOCOM '26, Arxiv '25)</span>
   - *Large Language Model (LLM) serving scheduling* <span style="color: #888;">(Arxiv '25, Arxiv '24)</span>
 
 - **Distributed Systems & Data Center Networks**
@@ -36,6 +36,8 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Paper: Chameleon is accepted by INFOCOM 2026.
+- *2025.10*: &nbsp;🎉🎉 Awarded National Scholarship for Ph.D. students.
 - *2025.04*: &nbsp;🎉🎉 Paper: Hermes is accepted by ATC 2025.
 - *2025.01*: &nbsp;🎉🎉 Paper: My paper of roofline analysis is accepted by ASPLOS 2025.
 - *2024.08*: &nbsp;🎉🎉 Paper: Sans is accepted by HPEC 2024.
@@ -45,6 +47,13 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 
 
 # 📝 Publications
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  INFOCOM'26 &nbsp;</span>
+  *Chameleon: Adaptive Fault Tolerance for Distributed Training via Real-time Policy Selection*. **(CCF-A)** 📄 [**To appear**]
+  - 👤 **Yuhang Zhou**, Zhibin Wang, Peng Jiang, Haoran Xia, Junhe Lu, Qianyu Jiang, Rong Gu, Hengxi Xu, Xinjing Huang, Guanghuan Fang, Zhiheng Hu, Jingyi Zhang, Yongjin Cai, Jian He, Chen Tian
+</div>
+
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   ATC'25 &nbsp;</span>
@@ -110,12 +119,12 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
   - 👤 Zhibin Wang, Zhonghui Zhang, **Yuhang Zhou**, Zibo Wang, Mo Zhou, Peng Jiang, Weilin Cai, Chengying Huan, Rong Gu, Sheng Zhong, Chen Tian
 </div>
 
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
   Arxiv 25 &nbsp;</span>
   *Odyssey: Adaptive Policy Selection for Resilient Distributed Training*. 📄 [**Paper**](https://arxiv.org/abs/2508.21613)
   - 👤 **Yuhang Zhou**, Zhibin Wang, Peng Jiang, Haoran Xia, Junhe Lu, Qianyu Jiang, Rong Gu, Hengxi Xu, Xinjing Huang, Guanghuan Fang, Zhiheng Hu, Jingyi Zhang, Yongjin Cai, Jian He, Chen Tian
-</div>
+</div> -->
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
