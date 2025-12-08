@@ -169,9 +169,9 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
   <script 
     type="text/javascript" 
     id="clustrmaps" 
-    src="/assets/js/clustrmap.js"  <!-- 同源路径：GitHub Pages 会识别为 https://njuzyh.github.io/assets/js/clustrmap.js -->
-  ></script>
-</div> -->
+    src="/assets/js/clustrmap.js" 
+  </script>
+</div> --> 
 <!-- 
 <div style="width: 250px; height: 250px; margin: auto; border: 1px solid #ddd; border-radius: 10px;">
   <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=qW1Hdbab0yqtSVhvkgvntv3GDKfftXspfZhTGV-XIWM"></script>
