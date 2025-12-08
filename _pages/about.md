@@ -17,18 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<br>
-
-
 # 👋 About me
-I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science at the State Key Laboratory for Novel Software Technology, Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) and [Dr. Zhibin Wang](https://wzbxpy.github.io/). I am expected to graduate in June 2027. 
+I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) and [Dr. Zhibin Wang](https://wzbxpy.github.io/). I am expected to graduate in June 2027. 
 <!-- This is my [Chinese CV](../files/yuhang_CV_cn.pdf). -->
 
 # 🌱 Research Interests
 - **Machine Learning Systems (MLSys)**
   - *Model training/inference performance optimization* <span style="color: #888;">(ATC '25, ASPLOS '25)</span>
   - *Fault-tolerance in distributed training* <span style="color: #888;">(INFOCOM '26, Arxiv '25)</span>
-  - *Large Language Model (LLM) serving scheduling* <span style="color: #888;">(Arxiv '25, Arxiv '24)</span>
+  - *LLM serving scheduling* <span style="color: #888;">(Arxiv '25, Arxiv '24)</span>
 
 - **Distributed Systems & Data Center Networks**
   - *Network performance optimization* <span style="color: #888;">(TPDS '22)</span>
@@ -57,21 +54,21 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   ATC'25 &nbsp;</span>
-  *Accelerating Model Training on Ascend Chips: An Industrial System for Profiling, Analysis and Optimization*. **(CCF-A)** 📄 [**Paper**](files/paper/atc25-zhou.pdf)
+  *Accelerating Model Training on Ascend Chips: An Industrial System for Profiling, Analysis and Optimization*. **(CCF-A)** 📄 [**Paper**](files/paper/atc25-zhou.pdf) 📊 [**Slides**](files/paper/atc25_slides_zhou.pdf)
   - 👤 **Yuhang Zhou**, Zibo Wang, Zhibin Wang, Ruyi Zhang, Chen Tian, Xiaoliang Wang, Wanchun Dou, Guihai Chen, Binqiang Wang, Yonghong Tian, Yan Zhang, Hui Wang, Fuchun Wei, Boquan Sun, Jingyi Zhang, Bin She, Teng Su, Yifan Yao, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Guyue Liu
 </div>
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   ASPLOS'25 &nbsp;</span>
-  *Squeezing Operator Performance Potential for the Ascend Architecture*. **(CCF-A)** 📄 [**Paper**](files/paper/ASPLOS25_Roofline.pdf)
+  *Squeezing Operator Performance Potential for the Ascend Architecture*. **(CCF-A)** 📄 [**Paper**](files/paper/ASPLOS25_Roofline.pdf) 📊 [**Slides**](files/paper/asplos25_slides_zhou.pdf)
   - 👤 **Yuhang Zhou**, Zhibin Wang, Guyue Liu, Shipeng Li, Xi Lin, Zibo Wang, Yongzhong Wang, Fuchun Wei, Jingyi Zhang, Zhiheng Hu, Yanlin Liu, Chunsheng Li, Ziyang Zhang, Yaoyuan Wang, Bin Zhou, Wanchun Dou, Guihai Chen, Chen Tian
 </div>
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   HPEC'24 &nbsp;</span>
-  *Sans: Streaming Anonymized Network Sensing*. 📄 [**Paper**](files/paper/HPEC24_Sans.pdf)
+  *Sans: Streaming Anonymized Network Sensing*. 📄 [**Paper**](files/paper/HPEC24_Sans.pdf) 📊 [**Slides**](files/paper/hpec24_slides_zhou.pdf)
   - 👤 Ketai Zhao, **Yuhang Zhou**, Hongxu Pan, Zhibin Wang, Sheng Zhong and Chen Tian
 </div>
 
@@ -165,13 +162,7 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate in Computer Science
 <div style="width: 250px; margin: auto; border: 1px solid #ddd; border-radius: 10px;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qW1Hdbab0yqtSVhvkgvntv3GDKfftXspfZhTGV-XIWM&cl=ffffff&w=a"></script>
 </div>
-<!-- <div style="width: 250px; height: 250px; margin: auto; border: 1px solid #ddd; border-radius: 10px;">
-  <script 
-    type="text/javascript" 
-    id="clustrmaps" 
-    src="/assets/js/clustrmap.js" 
-  </script>
-</div> --> 
+
 <!-- 
 <div style="width: 250px; height: 250px; margin: auto; border: 1px solid #ddd; border-radius: 10px;">
   <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=qW1Hdbab0yqtSVhvkgvntv3GDKfftXspfZhTGV-XIWM"></script>
