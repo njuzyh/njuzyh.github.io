@@ -139,7 +139,7 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate at NASA Group, Stat
 
 
 # 🏆 Honors and Awards
-- *2025.12*：Awarded Outstanding Graduate Model of Nanjing University.
+- *2025.12*: Awarded Outstanding Graduate Model of Nanjing University.
 - *2025.10*: Awarded National Scholarship for Ph.D. Students.
 - *2025.04*: Postgraduate Research & Practice Innovation Program of Jiangsu Province.
 - *2024.08*: IEEE HPEC Graph Challenge 2024 Honorable Mention.
