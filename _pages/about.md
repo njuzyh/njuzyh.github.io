@@ -33,6 +33,7 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate at NASA Group, Stat
 
 
 # 🔥 News
+- *2026.02*：&nbsp;🎉🎉 Paper: Zibo’s paper is accepted by DAC 2026.
 - *2025.12*: &nbsp;🎉🎉 Paper: Chameleon is accepted by INFOCOM 2026.
 - *2025.10*: &nbsp;🎉🎉 Awarded National Scholarship for Ph.D. students.
 - *2025.04*: &nbsp;🎉🎉 Paper: Hermes is accepted by ATC 2025.
