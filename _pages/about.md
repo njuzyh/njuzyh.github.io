@@ -21,6 +21,7 @@ redirect_from:
 I am Yuhang Zhou (周宇航), a fourth-year Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) and [Dr. Zhibin Wang](https://wzbxpy.github.io/). I am expected to graduate in June 2027. 
 <!-- This is my [Chinese CV](../files/yuhang_CV_cn.pdf). -->
 
+
 # 🌱 Research Interests
 - **Machine Learning Systems (MLSys)**
   - *Model training/inference performance optimization* <span style="color: #888;">(ATC '25, ASPLOS '25, DAC '26)</span>
@@ -152,19 +153,21 @@ I am Yuhang Zhou (周宇航), a fourth-year Ph.D. candidate at NASA Group, State
 - *2025.04*: Postgraduate Research & Practice Innovation Program of Jiangsu Province (江苏省研究生科研与实践创新项目).
 - *2024.08*: IEEE HPEC Graph Challenge 2024 Honorable Mention.
 
+
 # 🎓 Educations
 - *2021.09 - (now)*, Nanjing University, China. Ph.D in Computer Science and Technology, supervised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).
 - *2016.09 - 2020.06*, Nanjing University, China. B.S in Computer Science and Technology.
+
 
 # 💻 Internships
 - *2023.01 - (now)*, Huawei, China, supervised by Jingyi Zhang.
 - *2022.07 - 2022.12*, Pengcheng Lab, China, supervised by Bingqiang Wang.
 
-# 📚 Teaching
-- *2025.09 - (now)*, Teaching Assistant, LLM System and Engineering, Fall 2025, Nanjing University.
-- *2025.03 - 2025.06*, Teaching Assistant, Deep Learning Platform and Application, Spring 2025, Nanjing University.
-- *2022.02 - 2022.06*, Teaching Assistant, Computer Network, Spring 2022, Nanjing University.
 
+# 📚 Teaching
+- *2025.09 - 2026.01*, Teaching Assistant, [LLM System and Engineering, Fall 2025](https://wzbxpy.github.io/LLM-System-and-Engineering/), Nanjing University.
+- *2025.03 - 2025.06*, Teaching Assistant, [Deep Learning Platform and Application, Spring 2025](https://zhiweinju.github.io/nju-dl-lab-2025spring/final/projects/Profiling-optimization/), Nanjing University.
+- *2022.02 - 2022.06*, Teaching Assistant, Computer Network, Spring 2022, Nanjing University.
 
 
 # 🌍 Visitors
