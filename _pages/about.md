@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About me
-I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) and [Dr. Zhibin Wang](https://wzbxpy.github.io/). I am expected to graduate in June 2027. 
+I am Yuhang Zhou (周宇航), a fourth-year Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) and [Dr. Zhibin Wang](https://wzbxpy.github.io/). I am expected to graduate in June 2027. 
 <!-- This is my [Chinese CV](../files/yuhang_CV_cn.pdf). -->
 
 # 🌱 Research Interests
 - **Machine Learning Systems (MLSys)**
-  - *Model training/inference performance optimization* <span style="color: #888;">(ATC '25, ASPLOS '25)</span>
+  - *Model training/inference performance optimization* <span style="color: #888;">(ATC '25, ASPLOS '25, DAC '26)</span>
   - *Fault-tolerance in distributed training* <span style="color: #888;">(INFOCOM '26, Arxiv '25)</span>
   - *LLM serving scheduling* <span style="color: #888;">(Arxiv '25, Arxiv '24)</span>
 
@@ -45,6 +45,13 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate at NASA Group, Stat
 
 
 # 📝 Publications
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  DAC'26 &nbsp;</span>
+  *SmartSwap: Swap-Based Memory Optimization for LLM Training under Varying Operator Sequences*. **(CCF-A)** 📄 [**To appear**]
+  - 👤 Zibo Wang, **Yuhang Zhou**, Zhibin Wang, Shipeng Li, Xinjing Huang, Chendong Cai, Bingxu Mu, Yuqing Sun, Zhiheng Hu, Bin She, Shu You, Guanghuan Fang, Rong Gu, Wanchun Dou, Guihai Chen and Chen Tian
+</div>
+
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   INFOCOM'26 &nbsp;</span>
@@ -140,9 +147,9 @@ I am Yuhang Zhou (周 宇航), a fourth-year Ph.D. candidate at NASA Group, Stat
 
 
 # 🏆 Honors and Awards
-- *2025.12*: Awarded Outstanding Graduate Model of Nanjing University.
-- *2025.10*: Awarded National Scholarship for Ph.D. Students.
-- *2025.04*: Postgraduate Research & Practice Innovation Program of Jiangsu Province.
+- *2025.12*: Awarded Outstanding Graduate Model of Nanjing University (南京大学优秀研究生标兵).
+- *2025.10*: Awarded National Scholarship for Ph.D. Students (博士生国家奖学金).
+- *2025.04*: Postgraduate Research & Practice Innovation Program of Jiangsu Province (江苏省研究生科研与实践创新项目).
 - *2024.08*: IEEE HPEC Graph Challenge 2024 Honorable Mention.
 
 # 🎓 Educations
