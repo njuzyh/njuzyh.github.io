@@ -111,12 +111,12 @@ I am Yuhang Zhou (周宇航), a fourth-year Ph.D. candidate at NASA Group, State
   - 👤 Xueze Kang, Guangyu Xiang, Yuxin Wang, Hao Zhang, Yuchu Fang, **Yuhang Zhou**, Zhenheng Tang, Youhui Lv, Eliran Maman, Mark Wasserman, Alon Zameret, Zhipeng Bian, Shushu Chen, Zhiyou Yu, Jin Wang, Xiaoyu Wu, Yang Zheng, Chen Tian, Xiaowen Chu
 </div>
 
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
   Arxiv 25 &nbsp;</span>
   *Chameleon: Taming Dynamic Operator Sequences for Memory-Intensive LLM Training*. 📄 [**Paper**](https://arxiv.org/abs/2509.11076)
   - 👤 Zibo Wang, **Yuhang Zhou**, Zhibin Wang, Shipeng Li, Xinjing Huang, Chendong Cai, Bingxu Mu, Yuqing Sun, Zhiheng Hu, Bin She, Shu You, Guanghuan Fang, Rong Gu, Wanchun Dou, Guihai Chen, Chen Tian
-</div>
+</div> -->
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
