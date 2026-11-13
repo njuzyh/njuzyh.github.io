@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About me
-I am Yuhang Zhou (周宇航), a fourth-year Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) and [Dr. Zhibin Wang](https://wzbxpy.github.io/). I am expected to graduate in June 2027. 
+I am Yuhang Zhou (周宇航), a fourth-year Ph.D. candidate at NASA Group, State Key Laboratory for Novel Software Technology, Nanjing University. I am currently under the supervision of [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) and [Prof. Zhibin Wang](https://wzbxpy.github.io/). I am expected to graduate in June 2027. 
 <!-- This is my [Chinese CV](../files/yuhang_CV_cn.pdf). -->
 
 
 # 🌱 Research Interests
 - **Machine Learning Systems (MLSys)**
   - *Model training/inference performance optimization* <span style="color: #888;">(ATC '25, ASPLOS '25, DAC '26)</span>
-  - *Fault-tolerance in distributed training* <span style="color: #888;">(INFOCOM '26, Arxiv '25)</span>
+  - *Fault-tolerance in distributed training* <span style="color: #888;">(INFOCOM '26, HPCA '27)</span>
   - *LLM serving scheduling* <span style="color: #888;">(Arxiv '25, Arxiv '24)</span>
 
 - **Distributed Systems & Data Center Networks**
@@ -34,6 +34,7 @@ I am Yuhang Zhou (周宇航), a fourth-year Ph.D. candidate at NASA Group, State
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 Paper: VENTUS is accepted by HPCA 2027.
 - *2026.02*: &nbsp;🎉🎉 Paper: Zibo’s paper is accepted by DAC 2026.
 - *2025.12*: &nbsp;🎉🎉 Paper: Chameleon is accepted by INFOCOM 2026.
 - *2025.10*: &nbsp;🎉🎉 Awarded National Scholarship for Ph.D. students.
@@ -46,6 +47,13 @@ I am Yuhang Zhou (周宇航), a fourth-year Ph.D. candidate at NASA Group, State
 
 
 # 📝 Publications
+<div class='paper-box-text' markdown="1">
+- <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
+  HPCA'27 &nbsp;</span>
+  *VENTUS: Goodput-Driven Staged Recovery for Elastic Hybrid-Parallel Training*. **(CCF-A)** 📄 [**To appear**]
+  - 👤 Xueze Kang, Guangyu Xiang, Yuxin Wang, Lin Zhang, Zhenheng Tang, **Yuhang Zhou**, Hao Zhang, Yuchu Fang, Youhui Lv, Eliran Maman, Alon Zameret, Shushu Chen, Zhipeng Bian, Xiaoyu Wu, Zhiyou Yu, Jin Wang, Yang Zheng, Chen Tian, Xiaowen Chu 
+</div>
+
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: blue; color: white; font-size: 0.85em;">&nbsp;
   DAC'26 &nbsp;</span>
@@ -107,30 +115,9 @@ I am Yuhang Zhou (周宇航), a fourth-year Ph.D. candidate at NASA Group, State
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
   Arxiv 25 &nbsp;</span>
-  *ElasWave: An Elastic-Native System for Scalable Hybrid-Parallel Training*. 📄 [**Paper**](https://arxiv.org/abs/2510.00606)
-  - 👤 Xueze Kang, Guangyu Xiang, Yuxin Wang, Hao Zhang, Yuchu Fang, **Yuhang Zhou**, Zhenheng Tang, Youhui Lv, Eliran Maman, Mark Wasserman, Alon Zameret, Zhipeng Bian, Shushu Chen, Zhiyou Yu, Jin Wang, Xiaoyu Wu, Yang Zheng, Chen Tian, Xiaowen Chu
-</div>
-
-<!-- <div class='paper-box-text' markdown="1">
-- <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
-  Arxiv 25 &nbsp;</span>
-  *Chameleon: Taming Dynamic Operator Sequences for Memory-Intensive LLM Training*. 📄 [**Paper**](https://arxiv.org/abs/2509.11076)
-  - 👤 Zibo Wang, **Yuhang Zhou**, Zhibin Wang, Shipeng Li, Xinjing Huang, Chendong Cai, Bingxu Mu, Yuqing Sun, Zhiheng Hu, Bin She, Shu You, Guanghuan Fang, Rong Gu, Wanchun Dou, Guihai Chen, Chen Tian
-</div> -->
-
-<div class='paper-box-text' markdown="1">
-- <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
-  Arxiv 25 &nbsp;</span>
   *Accelerating Mixture-of-Experts Inference by Hiding Offloading Latency with Speculative Decoding*. 📄 [**Paper**](https://arxiv.org/abs/2508.21706)
   - 👤 Zhibin Wang, Zhonghui Zhang, **Yuhang Zhou**, Zibo Wang, Mo Zhou, Peng Jiang, Weilin Cai, Chengying Huan, Rong Gu, Sheng Zhong, Chen Tian
 </div>
-
-<!-- <div class='paper-box-text' markdown="1">
-- <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
-  Arxiv 25 &nbsp;</span>
-  *Odyssey: Adaptive Policy Selection for Resilient Distributed Training*. 📄 [**Paper**](https://arxiv.org/abs/2508.21613)
-  - 👤 **Yuhang Zhou**, Zhibin Wang, Peng Jiang, Haoran Xia, Junhe Lu, Qianyu Jiang, Rong Gu, Hengxi Xu, Xinjing Huang, Guanghuan Fang, Zhiheng Hu, Jingyi Zhang, Yongjin Cai, Jian He, Chen Tian
-</div> -->
 
 <div class='paper-box-text' markdown="1">
 - <span style="background-color: orange; color: white; font-size: 0.85em;">&nbsp;
@@ -160,7 +147,8 @@ I am Yuhang Zhou (周宇航), a fourth-year Ph.D. candidate at NASA Group, State
 
 
 # 💻 Internships
-- *2023.01 - (now)*, Huawei, China, supervised by Jingyi Zhang.
+- *2026.08 - (now)*, Tencent Hunyuan AI Infra, China.
+- *2023.01 - 2026.07*, Huawei, China, supervised by Jingyi Zhang and Yaoyuan Wang.
 - *2022.07 - 2022.12*, Pengcheng Lab, China, supervised by Bingqiang Wang.
 
 
